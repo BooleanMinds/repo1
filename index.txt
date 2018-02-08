@@ -1,3 +1,4 @@
 first line of code
 updated second line of code
 commit on master with no confilct
+change on master for rebase with conflict
